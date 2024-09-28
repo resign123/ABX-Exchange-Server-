@@ -1,4 +1,4 @@
-# ABX Exchange Assessment
+# ABX Exchange Server
 
 This project consists of an exchange server and a client for packet transmission. Follow the steps below to set up and run the application on your local machine.
 
